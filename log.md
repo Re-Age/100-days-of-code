@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 2020/9/24
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**今日の進捗**: 100DaysOfCodeの取り組み準備をし、後続の人に向けて取り組み方をまとめる。
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**思ったこと:** Git自体については知識がある前提になってしまった。ただそこまではさすがに細かく書けないので妥協。
 
-**Link to work:** [Calculator App](http://www.example.com)
+**リンク:** https://reage.hateblo.jp/
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
