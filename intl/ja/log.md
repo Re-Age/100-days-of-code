@@ -8,12 +8,10 @@
 
 **リンク** https://reage.hateblo.jp/
 
-### 1日目: 2016年6月27日（月）
+### 1日目: 2020/9/26
 
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
+**今日の進捗**: Kotlinの開発環境を整えた。
 
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
+**思ったこと** 参考にした書籍がわかりづらかった。開発環境自体は導入できたが、肝心の中身部分は入門向けの内容ではなかった。
 
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**リンク** なし(GitHubリポジトリ内にPrac1として直接プッシュ)
