@@ -56,3 +56,15 @@ Kotlinの公式チュートリアルFunctionを進めた。
 Prac1_IDEA/src/main/kotlin/practice/function/
 ・lesson2.kt
 
+### 5日目: 2020/9/30
+
+**今日の進捗**
+引き続き、infixの解説記事を作り、土台はできた。
+
+**思ったこと**
+もう少しサンプルを作りたいが、ここまで時間をかけすぎてしまっているのであまり時間はかけられない。
+
+**リンク** なし (GitHubリポジトリ内に直接プッシュ)
+Prac1_IDEA/src/main/kotlin/practice/function/
+・lesson2.kt
+
