@@ -21,5 +21,13 @@ fun main(){
     // 2''')
     println(2 * "3".toInt())
     // 6
+
+    // 3)
+    operator fun String.get(range: IntRange) = substring(range)
+
+    // 4)
+    val str = "Always forgive your enemies; nothing annoys them so much."
+    println(str[0..14])
+
 }
 
