@@ -68,3 +68,18 @@ Prac1_IDEA/src/main/kotlin/practice/function/
 Prac1_IDEA/src/main/kotlin/practice/function/
 ・lesson2.kt
 
+### 6日目: 2020/10/2
+
+**今日の進捗**
+operator関数の学習、1つ目の公式サンプルの解説をまとめた
+
+**思ったこと**
+自身の英語力の問題でもあるが、公式の説明だけでは定義の部分だけしか読み取れない。
+実際の使い方や、どのようにして処理が実行されているかは自分で調べてやることになり、情報整理に結構な時間がかかった。
+公式チュートリアルについての解説は(少なくとも日本語では)見つからなかったため、
+自分のようにこれから始める人たちのために解説をまとめておくことは価値があるように感じた。
+
+**リンク** なし (GitHubリポジトリ内に直接プッシュ)
+Prac1_IDEA/src/main/kotlin/practice/function/
+・lesson3.kt
+
